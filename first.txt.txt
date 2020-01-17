@@ -1,2 +1,7 @@
 hello world
+<<<<<<< HEAD
 i m osama
+=======
+hello boy for test
+>>>>>>> test
+i am mad

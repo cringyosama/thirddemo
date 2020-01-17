@@ -1,3 +1,7 @@
 working on second.txt
+<<<<<<< HEAD
 i m sorry
 i m the master
+=======
+change for revert
+>>>>>>> test
